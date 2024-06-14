@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\Hera\bin\Debug\net8.0\Hera.exe
+C:\Users\ASUS\Downloads\Hera\bin\Debug\net8.0\Hera.deps.json
+C:\Users\ASUS\Downloads\Hera\bin\Debug\net8.0\Hera.runtimeconfig.json
+C:\Users\ASUS\Downloads\Hera\bin\Debug\net8.0\Hera.dll
+C:\Users\ASUS\Downloads\Hera\bin\Debug\net8.0\Hera.pdb
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.dll
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\refint\Hera.dll
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.pdb
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\Hera.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Hera\obj\Debug\net8.0\ref\Hera.dll
